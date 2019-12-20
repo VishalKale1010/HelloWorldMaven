@@ -21,8 +21,7 @@
          <url>file:///var/lib/jenkins/myartifacts/</url>
        </repository>
    </distributionManagement>
-  
-  </distributionManagement-->
+ 
 <distributionManagement>
   <repository>
     <id>releases</id>
