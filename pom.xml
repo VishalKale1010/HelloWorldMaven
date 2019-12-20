@@ -22,19 +22,6 @@
        </repository>
    </distributionManagement>
  
-<distributionManagement>
-  <repository>
-    <id>releases</id>
-    <!-- CHANGE HERE by your team nexus server -->
-    <url>http://52.14.27.71:8081/repository/maven-releases/</url>
-  </repository>
-  <snapshotRepository>
-    <id>snapshots</id>
-    <!-- CHANGE HERE by your team nexus server -->
-    <url>http://52.14.27.71:8081/repository/maven-snapshots/</url>
-  </snapshotRepository>
-</distributionManagement>
-
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
